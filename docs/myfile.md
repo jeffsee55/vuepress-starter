@@ -2,5 +2,3 @@
 
 +++
 ## Hello world
-
-Hello, again
