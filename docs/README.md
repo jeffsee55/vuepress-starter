@@ -4,8 +4,8 @@ heroImage: "/hero.png"
 actionText: Get Started !
 actionLink: "/guide/"
 footer: MIT Licensed | Copyright © 2018-present Evan You
-
 ---
+
 <div style="text-align: center">
 <Bit/>
 </div>
@@ -27,7 +27,7 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 
 ### As Easy as A, B, C
 
-``` bash
+```bash
 # install
 yarn global add vuepress
 # OR npm install -g vuepress
